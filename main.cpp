@@ -11,4 +11,6 @@ int main()
     cout << a*2;
     cout << a-b;
     cout << a*b;
+    cout << a/b;
+
 }
